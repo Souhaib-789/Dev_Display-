@@ -9989,3 +9989,23 @@ h6,
   padding: 0;
   list-style-type: none;
 }
+
+/* ---------------------  CUTOMIZE THE COLOR --------------------- */
+
+.bg-primary{
+  background-color: var(--cyan) !important;
+}
+
+.text-primary{
+  color: var(--cyan) !important;
+}
+
+.btn-outline-primary{
+  color: var(--cyan) !important;
+  border-color: var(--cyan) !important;
+  background-color: white;
+}
+
+.btn-outline-primary:hover{
+  background-color: #ffffff !important;
+}
