@@ -12,9 +12,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="#">
-    <img src="https://imgur.com/a/ucPs1nT" alt="Logo" width="200" height="80">
-  </a>
+
 
   <h3 align="center">DEV_DISPLAY</h3>
 
