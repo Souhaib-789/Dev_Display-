@@ -10003,9 +10003,10 @@ h6,
 .btn-outline-primary{
   color: var(--cyan) !important;
   border-color: var(--cyan) !important;
-  background-color: white;
+  background-color: white !important;
 }
 
 .btn-outline-primary:hover{
-  background-color: #ffffff !important;
+  background-color: var(--cyan) !important;
+  color: white !important;
 }
