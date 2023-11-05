@@ -7,6 +7,7 @@
  */
 :root {
   --blue: #007bff;
+  --elegant: #566aff;
   --indigo: #6610f2;
   --purple: #6f42c1;
   --pink: #e83e8c;
@@ -9993,20 +9994,20 @@ h6,
 /* ---------------------  CUTOMIZE THE COLOR --------------------- */
 
 .bg-primary{
-  background-color: var(--cyan) !important;
+  background-color: var(--elegant) !important;
 }
 
 .text-primary{
-  color: var(--cyan) !important;
+  color: var(--elegant) !important;
 }
 
 .btn-outline-primary{
-  color: var(--cyan) !important;
-  border-color: var(--cyan) !important;
+  color: var(--elegant) !important;
+  border-color: var(--elegant) !important;
   background-color: white !important;
 }
 
 .btn-outline-primary:hover{
-  background-color: var(--cyan) !important;
+  background-color: var(--elegant) !important;
   color: white !important;
 }
