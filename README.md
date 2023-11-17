@@ -14,13 +14,18 @@
 <div align="center">
 
 
-  <h3 align="center">DEV_DISPLAY</h3>
+  <h1 align="center">DEV_DISPLAY</h1>
 
   <p align="center">
     An awesome Portfolio template to showcase your skills , works & projects!
   
   </p>
+
 </div>
+
+https://github.com/Souhaib-789/Dev_Display-/assets/80969087/e5a30c35-edb6-4602-bc6e-04c56e64dda3
+
+
 
 
 <!-- ABOUT THE PROJECT -->
